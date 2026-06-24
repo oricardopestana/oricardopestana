@@ -66,7 +66,7 @@
     </td>
   </tr>
     <tr>
-      <td align="center">
+      <td>
         <img src="https://github-readme-stat-lemon.vercel.app/api?username=oricardopestana&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
       </td>
     </tr>
