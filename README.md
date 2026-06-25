@@ -65,10 +65,6 @@
       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="oricardopestana's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=oricardopestana&langs_count=8&layout=compact&include_all_commits=true&theme=city-lights&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
     </td>
   </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stat-lemon.vercel.app/api?username=oricardopestana&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-      </td>
-    </tr>
+  
   </table>
 </div>
