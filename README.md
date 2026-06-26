@@ -4,7 +4,6 @@
 ![](https://komarev.com/ghpvc/?username=oricardopestana&style=pixel)
 
 <h2>Tech Stack</h2>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -44,14 +43,8 @@
           <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48"/><br>GitHub Actions</td>          
  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
     <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="48"/><br>Vercel</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48"/><br>Supabase</td>
-      
-
-          
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48"/><br>Supabase</td>   
   </tr>
-    
-    
-  
 </table>
 
 ---
